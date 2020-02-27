@@ -1,10 +1,13 @@
 # [Selection] for [Krabby]
 
-> [Krabby] plugin to make selections with [Selection].
+[Krabby]: https://krabby.netlify.com
+[Selection]: https://simonwep.github.io/selection/
+
+A [Krabby] plugin to make selections with [Selection].
 
 ## Installation
 
-Edit your `manifest.json` and `fetch` files.
+Edit your manifest and `fetch` files.
 
 `~/.config/krabby/fetch`
 
@@ -14,7 +17,7 @@ fetch https://github.com/alexherbo2/krabby-selection/raw/master/scripts/krabby/s
 fetch https://github.com/alexherbo2/krabby-selection/raw/master/styles/krabby/selection.css krabby/selection.css
 ```
 
-`~/.config/krabby/manifest.json`
+`~/.config/krabby/manifest/common.json`
 
 ``` json
 {
@@ -42,6 +45,3 @@ make
 ## Usage
 
 Hold <kbd>Control</kbd> or <kbd>Command</kbd>, then click and drag <kbd>Left Mouse</kbd> to make a multi-selection.
-
-[Krabby]: https://krabby.netlify.com
-[Selection]: https://simonwep.github.io/selection/

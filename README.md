@@ -13,8 +13,8 @@ Edit your manifest and `fetch` files.
 
 ``` sh
 fetch https://cdn.jsdelivr.net/npm/@simonwep/selection-js/dist/selection.min.js mouse-selection.js
-fetch https://github.com/alexherbo2/krabby-selection/raw/master/scripts/krabby/selection.js krabby/selection.js
-fetch https://github.com/alexherbo2/krabby-selection/raw/master/styles/krabby/selection.css krabby/selection.css
+fetch https://github.com/alexherbo2/krabby-selection/raw/master/src/krabby/selection.js krabby/selection.js
+fetch https://github.com/alexherbo2/krabby-selection/raw/master/src/krabby/selection.css krabby/selection.css
 ```
 
 `~/.config/krabby/manifest/common.json`

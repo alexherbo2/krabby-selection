@@ -1,6 +1,6 @@
 # [Selection] for [Krabby]
 
-[Krabby]: https://krabby.netlify.com
+[Krabby]: https://krabby.netlify.app
 [Selection]: https://simonwep.github.io/selection/
 
 A [Krabby] plugin to make selections with [Selection].
